@@ -1,0 +1,28 @@
+version: "2"
+
+services:
+  backend:
+    build: ./django-backend
+    ports:
+      - "8000:80"
+    networks:
+      - front-tier
+
+  api:
+    build: ./django-api
+    ports:
+      - "8001:80"
+    networks:
+      - front-tier
+      - back-tier
+
+  redis:
+    image: redis
+    container_name: redis
+    ports: ["6379"]
+    networks:
+      - back-tier
+
+networks:
+  front-tier:
+  back-tier:

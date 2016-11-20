@@ -1,0 +1,1692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pyto",
+				"python-pip"
+			],
+			[
+				"is",
+				"isoformat〔function〕"
+			],
+			[
+				"as",
+				"as_json\t(models.py)"
+			],
+			[
+				"HT",
+				"HTTP_201_CREATED\t(views.py)"
+			],
+			[
+				"HTT",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"process",
+				"process_file_upload\t(models.py)"
+			],
+			[
+				"uploadf",
+				"upload_file_to_manage"
+			],
+			[
+				"wri",
+				"write_file_to_disk"
+			],
+			[
+				"uplf",
+				"upload_file_to_manage\t(models.py)"
+			],
+			[
+				"write",
+				"write_local_file\t(views.py)"
+			],
+			[
+				"Audf",
+				"AudioFileSerializer"
+			],
+			[
+				"serial",
+				"serializer\t(views.py)"
+			],
+			[
+				"sub",
+				"subprocess"
+			],
+			[
+				"sani",
+				"sanitize_filename"
+			],
+			[
+				"filen",
+				"file_name\t(serializers.py)"
+			],
+			[
+				"all",
+				"allow_blank\t(serializers.py)"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"allow",
+				"allow_empty_file\t(serializers.py)"
+			],
+			[
+				"ca",
+				"can_access_account〔function〕"
+			],
+			[
+				"deta",
+				"detail_route\t(views.py)"
+			],
+			[
+				"li",
+				"listmapping"
+			],
+			[
+				"cann",
+				"cannot_access_rvm"
+			],
+			[
+				"cam",
+				"campaign_id"
+			],
+			[
+				"transf",
+				"transfer_phone"
+			],
+			[
+				"diald",
+				"dial_duration"
+			],
+			[
+				"co",
+				"columnheaders〔variable〕"
+			],
+			[
+				"col",
+				"columns〔variable〕"
+			],
+			[
+				"L",
+				"LAST_WEEK\t(campaign_models.py)"
+			],
+			[
+				"leadp",
+				"lead_phone"
+			],
+			[
+				"single",
+				"singledrop〔module〕"
+			],
+			[
+				"credit",
+				"credit_limit"
+			],
+			[
+				"sing",
+				"single_drop_list\t(leadfilter.py)"
+			],
+			[
+				"desc",
+				"description\t(leadfilter.py)"
+			],
+			[
+				"main",
+				"maincur〔variable〕"
+			],
+			[
+				"NOT",
+				"NOT_CELL\t(leadfilter.py)"
+			],
+			[
+				"scr",
+				"scrub_nat_dnc"
+			],
+			[
+				"tzf",
+				"tzfinder_tzs"
+			],
+			[
+				"django",
+				"django.conf.settings"
+			],
+			[
+				"res",
+				"respect_schedule\t(filter.py)"
+			],
+			[
+				"scrub",
+				"scrub_nat_dnc\t(filter.py)"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"tru",
+				"truthies"
+			],
+			[
+				"respect",
+				"respect_schedule"
+			],
+			[
+				"monit",
+				"monitor_agent_pool_id"
+			],
+			[
+				"ser",
+				"serializer"
+			],
+			[
+				"Out",
+				"OutboundSerializer"
+			],
+			[
+				"Outb",
+				"OutboundSerializer"
+			],
+			[
+				"dial",
+				"dial_schedule_id"
+			],
+			[
+				"ac",
+				"acctcur〔variable〕"
+			],
+			[
+				"acc",
+				"account〔variable〕"
+			],
+			[
+				"accc",
+				"acctcur〔variable〕"
+			],
+			[
+				"tbl_accou",
+				"tbl_account_debits\t(models.py)"
+			],
+			[
+				"exce",
+				"except\t(views.py)"
+			],
+			[
+				"rate",
+				"rate_attempt"
+			],
+			[
+				"persms",
+				"per_sms_attempt\t(models.py)"
+			],
+			[
+				"vba",
+				"VBAccountDebit〔class〕"
+			],
+			[
+				"vbac",
+				"vbaccount\t(urls.py)"
+			],
+			[
+				"mi",
+				"missing_param〔function〕"
+			],
+			[
+				"Sms",
+				"SmsException"
+			],
+			[
+				"Acc",
+				"AccountIssue\t(filter.py)"
+			],
+			[
+				"s",
+				"SmsOnDemand〔class〕"
+			],
+			[
+				"in_",
+				"in_global_schedule"
+			],
+			[
+				"_raise",
+				"_raise_account_issue\t(singledrop.py)"
+			],
+			[
+				"acctdata",
+				"acct_data"
+			],
+			[
+				"_checka",
+				"_check_account_issue〔function〕"
+			],
+			[
+				"S",
+				"SingleDropException〔class〕"
+			],
+			[
+				"respec",
+				"respect_schedule\t(views.py)"
+			],
+			[
+				"mis",
+				"missing_param"
+			],
+			[
+				"Sing",
+				"SingleDropException"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"ring",
+				"ringlessvm_id"
+			],
+			[
+				"Sin",
+				"SingleDrop"
+			],
+			[
+				"account",
+				"account_id"
+			],
+			[
+				"shoul",
+				"should_be_same"
+			],
+			[
+				"req",
+				"required\t(decorators.py)"
+			],
+			[
+				"valid",
+				"validated_data"
+			],
+			[
+				"djang",
+				"django.shortcuts\t(views.py)"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"cat",
+				"catch_general_errors"
+			],
+			[
+				"viewse",
+				"viewsets\t(views.py)"
+			],
+			[
+				"dbserv",
+				"dbserver_dsn\t(rvm_models.py)"
+			],
+			[
+				"cannot",
+				"cannot_access_account"
+			],
+			[
+				"list",
+				"list_map"
+			],
+			[
+				"war",
+				"warning〔function〕"
+			],
+			[
+				"missing",
+				"missing_param\t(decorators.py)"
+			],
+			[
+				"cannn",
+				"cannot_access_account"
+			],
+			[
+				"can",
+				"can_access_account"
+			],
+			[
+				"P",
+				"PendingPhonelistFileSerializer〔class〕"
+			],
+			[
+				"canno",
+				"cannot_access_account〔module〕"
+			],
+			[
+				"Ht",
+				"HTTP_200_OK\t(views.py)"
+			],
+			[
+				"printer",
+				"print_error〔function〕"
+			],
+			[
+				"re",
+				"responses\t(decorators.py)"
+			],
+			[
+				"ver",
+				"verify_params"
+			],
+			[
+				"CallerID",
+				"CallerID〔module〕"
+			],
+			[
+				"H",
+				"HTTP_400_BAD_REQUEST\t(responses.py)"
+			],
+			[
+				"respon",
+				"responses\t(decorators.py)"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"acco",
+				"account"
+			],
+			[
+				"Ht4",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"getl",
+				"get_list_or_404"
+			],
+			[
+				"Out2acl",
+				"Outbound2CallerIDSerializer"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"spl",
+				"splitext〔function〕"
+			],
+			[
+				"callerid",
+				"callerid_id"
+			],
+			[
+				"Cal",
+				"CallerID\t(models.py)"
+			],
+			[
+				"ini",
+				"initial_ivr_id"
+			],
+			[
+				"Ou",
+				"Outbound2ListSerializer〔class〕"
+			],
+			[
+				"deleted",
+				"delete_date"
+			],
+			[
+				"optn",
+				"options"
+			],
+			[
+				"ivrv",
+				"ivr_version\t(models.py)"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"stat",
+				"status_code"
+			],
+			[
+				"aud",
+				"audio_msg"
+			],
+			[
+				"resul",
+				"results_email_on\t(models.py)"
+			],
+			[
+				"Mu",
+				"MultiPartParserError"
+			],
+			[
+				"cana",
+				"can_access_account"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"root",
+				"root_obj"
+			],
+			[
+				"Mo",
+				"MobileAccountObj"
+			],
+			[
+				"Rvm",
+				"RvmDetailsDownloadReport〔class〕"
+			],
+			[
+				"chec",
+				"check_upgrade"
+			],
+			[
+				"make",
+				"make_filename\t(campaign_models.py)"
+			],
+			[
+				"Base",
+				"BaseReport"
+			],
+			[
+				"phone",
+				"phone_list"
+			],
+			[
+				"phonel",
+				"phone_list\t(views.py)"
+			],
+			[
+				"datera",
+				"date_range_text"
+			],
+			[
+				"daterag",
+				"date_range_text\t(campaign_models.py)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-backend/requirements.txt",
+			"settings":
+			{
+				"buffer_size": 48,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-api/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-backend/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 616,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-backend/backend/clicks/views.py",
+			"settings":
+			{
+				"buffer_size": 312,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-backend/backend/backend/urls.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-api/api/clicks/views.py",
+			"settings":
+			{
+				"buffer_size": 373,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-api/api/api/settings.py",
+			"settings":
+			{
+				"buffer_size": 3416,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-api/.dockerignore",
+			"settings":
+			{
+				"buffer_size": 10,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "docker",
+		"selected_items":
+		[
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"for",
+				"FormatLua: Format Lua code"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add All"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"gitigno",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"git: ad",
+				"Git: Add..."
+			],
+			[
+				"crona",
+				"Set Syntax: Corona SDK Lua"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/joey/work/dockerDemos/composeDemo",
+		"/Users/joey/work/dockerDemos/composeDemo/django-api",
+		"/Users/joey/work/dockerDemos/composeDemo/django-backend",
+		"/Users/joey/work/dockerDemos/composeDemo/django-backend/backend",
+		"/Users/joey/work/dockerDemos/composeDemo/django-backend/backend/backend",
+		"/Users/joey/work/dockerDemos/composeDemo/django-backend/backend/clicks"
+	],
+	"file_history":
+	[
+		"/Users/joey/work/dockerDemos/composeDemo/django/api/api/connections.py",
+		"/Users/joey/work/dockerDemos/composeDemo/django/api/clicks/views.py",
+		"/Users/joey/work/dockerDemos/composeDemo/django/api/api/urls.py",
+		"/Users/joey/work/sms-load-test/attack.sh",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/urls.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/sms/ondemand.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/settings.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbuser/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/sms/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/sms/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/lead/leadfilter.py",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/phonelists/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/phonelists/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/phonelists/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/singledrop.py",
+		"/Users/joey/work/platform-web/django/platformweb/phonelists/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/responses.py",
+		"/Users/joey/work/platform-web/django/platformweb/audio/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/audio/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/audio/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/tests/test_campaign_reports.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/campaign_models.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/rvm_models.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/outbound_models.py",
+		"/Users/joey/Desktop/campaign-99057-20161003-Committee-to-Elect-Carol-Barrett-Call-1019-20161105222948-csv",
+		"/Users/joey/Downloads/campaign-101916-20161101-Taxpayers-for-Education-Call-1195-20161105222742-csv",
+		"/Users/joey/Downloads/campaign-101916-20161101-Taxpayers-for-Education-Call-1195-20161105222649-csv",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/campaign_sql.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/tests/test_rvm_reports.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/tests/test_outbound_reports.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/reports/utils.py",
+		"/Users/joey/work/platform-web/nginx/sites-available/joey2",
+		"/Users/joey/work/platform-web/nginx/sites-available/platformweb",
+		"/Users/joey/work/platform-web/django/platformweb/reports/rvm_sql.py",
+		"/Users/joey/work/platform-web/django/platformweb/outbounds/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/director/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/lead/filter.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/lead/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/test_views.py",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/test_singledrop.py",
+		"/Users/joey/work/platform-web/django/platformweb/manage.py",
+		"/Users/joey/work/platform-web/django/platformweb/__init__.py",
+		"/Users/joey/work/platform-web/django/platformweb/lead/tzfinder.py",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/tzfinder.py",
+		"/Users/joey/work/platform-web/django/platformweb/outbounds/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/outbounds/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivrs/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/connections.py",
+		"/Users/joey/work/platform-web/django/platformweb/outbounds/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/schedule/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivrs/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivrs/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivrversions/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivrs/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/routers.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/decorators.py",
+		"/Users/joey/Downloads/stratics-2016-9-30/v1.0/webhooks/rvm-single-drop.md",
+		"/Users/joey/work/platform-web/django/platformweb/dnc/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/callerid/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/campaign/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbuser/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/lead/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/utils.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/utils.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/rvms/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbuser/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/mobile_uwsgi.ini",
+		"/Users/joey/work/platform-web/nginx/sites-available/mobile",
+		"/Users/joey/work/platform-web/sftp-config.json",
+		"/Users/joey/work/platform-web/django/platformweb/joey2_uwsgi.ini",
+		"/Users/joey/work/platform-web/nginx/sites-available/joey_platformweb",
+		"/Users/joey/work/platform-web/nginx/sites-available/ryan_platformweb",
+		"/Users/joey/work/platform-web/django/platformweb/campaign/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/phonelists/utils.py",
+		"/Users/joey/Downloads/Scan 2016-8-31 0004.pdf",
+		"/Users/joey/work/platform-web/django/platformweb/list/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/tests/test_jwt.py",
+		"/Users/joey/work/platform-web/django/platformweb/stats/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/callerid/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/forms.py",
+		"/Users/joey/Library/Application Support/Sublime Text 3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/Users/joey/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/Users/joey/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/joey/Library/Application Support/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/Users/joey/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/joey/work/platform-web/django/platformweb/dnc/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/dnc/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/dnc/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritems/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/validators.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritems/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritems/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritemoptions/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritemoptions/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivrversions/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritemoptions/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/sftp-config.json",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb_uwsgi.ini",
+		"/Users/joey/work/webhooks/django/webhooks/uwsgi_params",
+		"/Users/joey/work/platform-web/django/platformweb/campaign/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/campaign/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/agent_pools/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/agent_pools/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/outbounds/urls.py",
+		"/Users/joey/work/platform-web/django/platformweb/auditlog/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/platformweb/shortcuts.py",
+		"/Users/joey/work/platform-web/django/platformweb/callerid/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/callerids/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/callerid/serializers.py",
+		"/Users/joey/work/platform-web/django/platformweb/callerids/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/auditlog/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/auditlog/models.py",
+		"/Users/joey/work/platform-web/django/platformweb/auditlog/forms.py",
+		"/Users/joey/work/platform-web/django/platformweb/audio/tests.py",
+		"/Users/joey/work/platform-web/django/platformweb/schedule/views.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbaccount/permissions.py",
+		"/Users/joey/work/platform-web/django/platformweb/vbuser/permissions.py",
+		"/Users/joey/work/platform-web/django/platformweb/ivritems/tests.py",
+		"/Users/joey/work/upload phone list temp.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"redis",
+			"date.",
+			"self._get_lead_filter_object",
+			"getLeadFilterObject",
+			"tbl_npa_nx",
+			"_get_npanxx_info",
+			"_tz_cache",
+			"get_timezone_abbrev",
+			"tzfinder_tzs",
+			"tzs",
+			"dict",
+			"acctcur",
+			"acctcnx",
+			"smsexception",
+			"main",
+			"maincur",
+			"sms_count",
+			"self.account",
+			"acctcur",
+			"redis",
+			"get_platform_today",
+			"tzfinder",
+			"_tz_cache",
+			"map_phone_list",
+			"AccountIssue",
+			"dict_compare",
+			"md5",
+			"date",
+			"datetime",
+			"pprint",
+			"json",
+			"get_redis_conn",
+			"get_state",
+			"get_date_range",
+			".objects",
+			"Outbound",
+			"Serializer",
+			"'options'",
+			"'items'",
+			"['options']",
+			"[0]['items']",
+			"mydata['versions']",
+			"render",
+			"AgentPoolSerializer",
+			"AgentPool",
+			"IVR",
+			"time",
+			"get_date",
+			"uii",
+			"lead",
+			"cs.SQL",
+			"self.outfile",
+			"download",
+			"print",
+			"ca",
+			"rs.SQL",
+			"download",
+			"SummaryReport",
+			"SurveyItem",
+			"datetime.timedelta",
+			"CampaignSummaryReport",
+			"ReportInfo",
+			"datetime.datetime",
+			"rs",
+			"report_utils",
+			"utils",
+			"datetime",
+			"self.file.name",
+			"paramiko",
+			"callerid.account_id",
+			"schedule.account_id",
+			"request.user.can_access_account(",
+			"request.user.can_access_account(campaign.account)",
+			"access this account'}, status=401)",
+			"or not request.user.can_access_account",
+			"request.user.can_access_account(rvm.account):",
+			"and not request.user.can_access_account",
+			"theme",
+			"tbl_joey_log",
+			"tbl_audit_log",
+			"tbl_joey_log",
+			"tbl_audit",
+			"print",
+			"check_account",
+			"IsCleanName",
+			"kwargs",
+			"dsn",
+			"aid",
+			"kwargs",
+			"account_id",
+			"get_serializer",
+			"md5",
+			"paltform",
+			"reRenderData",
+			"List",
+			"refresh",
+			"reloadData",
+			"campaign. campaign_name",
+			"string.sub( campaign. campaign_name, 1, 17 )",
+			"string.sub( campaign. campaign_name, 1, 13 )",
+			"campaign.status",
+			" .. \": \" .. string.sub( campaign.accountName, 1, 16 )",
+			"accountID",
+			"campaignID",
+			"campaignName",
+			":",
+			"'",
+			"campaignID",
+			"campaignName",
+			"campaignList",
+			"xOffset",
+			"newButton",
+			"showOverlay",
+			"goToScene",
+			"sceneGroup",
+			"togglePanel",
+			"shadow",
+			"background",
+			"backer",
+			"panel",
+			"icon",
+			"panel",
+			"backer",
+			"icon",
+			"local ",
+			"hamburger",
+			"oomButton",
+			"\n    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_get_lead_filter_object",
+			"chunk_count",
+			"O",
+			"I",
+			"[O]",
+			"[0][I]",
+			"mydata[V]",
+			"rs.SQL",
+			"cs.SQL",
+			"self",
+			"timedelta",
+			"datetime",
+			"self.name",
+			"schedule.account.account_id",
+			"request.user.can_access_account(campaign.account.account_id)",
+			"access this account'}, status=400)",
+			"and not request.user.can_access_account",
+			"request.user.can_access_account(rvm.account.account_id):",
+			"or not request.user.can_access_account",
+			"tbl_audit_log",
+			"tbl_joey_log",
+			"tbl_audit_log",
+			"logger.debug",
+			"IsCleanEmail",
+			"Queue",
+			"refreshSpin",
+			"campaign.campaign_name",
+			"string.sub( campaign. campaign_name, 1, 20 )",
+			"string.sub( campaign. campaign_name, 1, 17 )",
+			"campaign.campaign_status",
+			"",
+			"account_id",
+			" campaign_id",
+			" campaign_name",
+			" =",
+			"",
+			"campaign_name",
+			"layer1Group",
+			"toggleMorePanel",
+			"moreShadow",
+			"moreBackground",
+			"moreBacker",
+			"morePanel",
+			"M.panel",
+			"M.backer",
+			"M.icon",
+			"M.",
+			"otherButton",
+			"",
+			"cx",
+			"cy",
+			"cx",
+			"\"Paused\"",
+			"\"Running\"",
+			"status",
+			" =",
+			"href=\"#\" class=\"top-bar-subnav-link\"",
+			"small-3",
+			"name",
+			"id",
+			"middle-col",
+			".get_connection",
+			"self.dbpool",
+			"left-align",
+			"transfer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "django-backend/requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "django-api/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								608
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "django-backend/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "django-backend/backend/clicks/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "django-backend/backend/backend/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "django-api/api/clicks/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "django-api/api/api/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3406,
+								3406
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1331.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "django-api/.dockerignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "composeDemo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"platformwebresp",
+				"django/platformweb/platformweb/responses.py"
+			],
+			[
+				"reportsou",
+				"django/platformweb/reports/outbound_models.py"
+			],
+			[
+				"reportsrvm",
+				"django/platformweb/reports/rvm_models.py"
+			],
+			[
+				"reportsv",
+				"django/platformweb/reports/views.py"
+			],
+			[
+				"reportscamp",
+				"django/platformweb/reports/campaign_models.py"
+			],
+			[
+				"phone",
+				"django/platformweb/phonelists/tests.py"
+			],
+			[
+				"leaf",
+				"django/platformweb/lead/leadfilter.py"
+			],
+			[
+				"rvmtest",
+				"django/platformweb/rvms/tests.py"
+			],
+			[
+				"rvmsing",
+				"django/platformweb/rvms/singledrop.py"
+			],
+			[
+				"rvmsv",
+				"django/platformweb/rvms/views.py"
+			],
+			[
+				"resp",
+				"django/platformweb/platformweb/responses.py"
+			],
+			[
+				"testcam",
+				"django/platformweb/reports/tests/test_campaign_reports.py"
+			],
+			[
+				"reportstest",
+				"django/platformweb/reports/tests.py"
+			],
+			[
+				"testrv",
+				"django/platformweb/reports/tests/test_rvm_reports.py"
+			],
+			[
+				"testout",
+				"django/platformweb/reports/tests/test_outbound_reports.py"
+			],
+			[
+				"reportsview",
+				"django/platformweb/reports/views.py"
+			],
+			[
+				"lead",
+				"django/platformweb/lead/leadfilter.py"
+			],
+			[
+				"campas",
+				"django/platformweb/reports/campaign_sql.py"
+			],
+			[
+				"campa",
+				"django/platformweb/reports/campaign_models.py"
+			],
+			[
+				"testr",
+				"django/platformweb/reports/tests/test_rvm_reports.py"
+			],
+			[
+				"rvmm",
+				"django/platformweb/reports/rvm_models.py"
+			],
+			[
+				"cam",
+				"django/platformweb/reports/tests/test_campaign_reports.py"
+			],
+			[
+				"joey",
+				"nginx/sites-available/joey2"
+			],
+			[
+				"sitesa",
+				"nginx/sites-available/platformweb"
+			],
+			[
+				"setting",
+				"django/platformweb/platformweb/settings.py"
+			],
+			[
+				"utils",
+				"django/platformweb/reports/utils.py"
+			],
+			[
+				"rvmvi",
+				"django/platformweb/rvms/views.py"
+			],
+			[
+				"leadf",
+				"django/platformweb/lead/filter.py"
+			],
+			[
+				"rvmv",
+				"django/platformweb/rvms/views.py"
+			],
+			[
+				"vbaccountmod",
+				"django/platformweb/vbaccount/models.py"
+			],
+			[
+				"test",
+				"django/platformweb/dnc/tests.py"
+			],
+			[
+				"outboundtest",
+				"django/platformweb/outbounds/tests.py"
+			],
+			[
+				"rvmview",
+				"django/platformweb/rvms/views.py"
+			],
+			[
+				"vbaccmode",
+				"django/platformweb/vbaccount/models.py"
+			],
+			[
+				"settings",
+				"django/platformweb/platformweb/settings.py"
+			],
+			[
+				"platformurls",
+				"django/platformweb/platformweb/urls.py"
+			],
+			[
+				"rvmtests",
+				"django/platformweb/rvms/tests.py"
+			],
+			[
+				"leadfil",
+				"django/platformweb/lead/filter.py"
+			],
+			[
+				"set",
+				"django/platformweb/platformweb/settings.py"
+			],
+			[
+				"single",
+				"django/platformweb/rvms/singledrop.py"
+			],
+			[
+				"dec",
+				"django/platformweb/platformweb/decorators.py"
+			],
+			[
+				"views",
+				"django/platformweb/callerid/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
