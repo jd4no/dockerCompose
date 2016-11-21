@@ -16,9 +16,10 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
-from clicks.views import index
+from clicks.views import index, index2
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'visits/', index)
+    url(r'clicks/', index),
+    url(r'visits/', index2)
 ]
